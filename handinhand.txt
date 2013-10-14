@@ -1,0 +1,1 @@
+hi this is just a document to thnk deeper on how restful services work. 
